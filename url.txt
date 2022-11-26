@@ -1,0 +1,23 @@
+#echo "# Assignment-day4" >> README.md
+
+#git add README.md
+
+#git remote add origin https://github.com/JadhavDnyaneshwarr/Assignment-day4.git
+
+
+
+
+
+#!/bin/bash
+
+for (( cnt=1; cnt<11; cnt=$((cnt+1)) ))
+do
+	table=$((2 * cnt));
+	echo "2*$cnt= $table";
+done
+
+
+
+
+
+
